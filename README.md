@@ -1,5 +1,3 @@
-<img width="2044" height="1548" alt="4_1_mux" src="https://github.com/user-attachments/assets/5909e3e3-5723-412a-90ce-fbdcf1bbd014" /># 4:1 Multiplexer Implementation in Spartan-7 FPGA
-
 ## Aim
 To design, synthesize, and implement a 4:1 Multiplexer using Verilog HDL on a Spartan-7 FPGA using Xilinx Vivado Design Suite.
 
